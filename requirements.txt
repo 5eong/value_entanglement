@@ -1,0 +1,9 @@
+torch
+transformers
+transformer_lens>=3.0
+seaborn
+scipy
+scikit-learn
+ipykernel
+statsmodels
+openpyxl
